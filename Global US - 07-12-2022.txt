@@ -1,0 +1,58 @@
+Learn AWS DEVOPS to get your dream job
+
+
+AWS DEVOPS Program with Realtime Projects 
+
+Our Mastering AWS DevOps training program will provide you with in-depth knowledge of various DevOps tools, including AWS, Ansible, Docker, Kubernetes, GIT, Jenkins, Terraform, Prometheus, and Grafana. This mastering course is entirely hands-on and designed in a way to help you become a certified practitioner through best practices in Continuous Development, Configuration Management, Continuous Integration, and finally, Continuous Monitoring of software throughout its development life cycle.
+
+
+1) AWS Solutions Architect Associate
+2) Redhat Ansible Automation
+3) Docker Certified Administrator
+4) Certified Kubernetes Administrator
+5) Advanced GIT
+6) Jenkins
+7) Certified Terraform Associate 
+
+Choose any 3 Courses @ 300 USD
+Choose any 4 Courses @ 400 USD 
+Choose all Courses @ 500 USD
+
+Things you need to know :
+
+1) Every prerequisite required to learn Aws & Devops are covered in this program 
+
+2) This is not basic level training, We start with basics and go till professional level
+
+3) Every session is recorded and shared to students on daily basis 
+
+4) Will share proper notes in easy understandable format with proper lab demonstrations.
+
+5) Interview preparation | Resume Building 
+
+6) For the candidates who require job support we can provide with additional cost
+
+With this program you can appear for the below global certifications :
+
+RHCSA 
+RHCE 
+AWS Solutions Architect Associate 
+Docker Certified Administrator 
+Certified Kubernetes Administrator 
+Terraform Certified Associate 
+
+
+We will provide 100% support to clear your global exams with out any additional costs.
+
+Note : Exam fee you have to pay from your pocket where we provide preparation support with 100% passing guarantee
+
+Upcoming Batch'S :
+Week Day - Dec 14th - 7-30AM IST
+Week Day - Dec 14th - 9PM IST 
+Week End - Dec 10th - 8AM IST
+
+
+Please fill your details using the below link
+http://pragathitech.com/contact-us/
+Pragathi Technologies
+Mobile : +919611140077
